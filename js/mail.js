@@ -6,10 +6,11 @@ const mailsContainer = ["mariorossi@gmail.com" , "albevorox@gmail.com" , "codpro
 
 
 
-    if(elementMail.value === mailsContainer[0]){
+    if(prompt.value === mailsContainer[0] && mailsContainer[1] && mailsContainer[2] && mailsContainer[3]){
         console.log("l'utente è correttamente registrato.");
     }
     else{
         console.log("La mail non è registrata");
     }
+
 
