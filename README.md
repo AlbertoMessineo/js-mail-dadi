@@ -8,6 +8,13 @@
 - Prendo il valore del prompt e controllo con un If che sia all'interno dell'array.
 - Stampo messaggio con l'esito del controllo con un console.log
 
+## Esercizio dadi
+- Costruisco due array che rappresentino i rispettivi dadi del computer e del giocatore
+- All'interno degli array inserisco le sei facce possibili del dado
+- Stampo un valore casuale di entrambi gli array
+- Con un if stabilisco le condizioni di vittoria (Valore piu' alto vince)
+
+
 
 
 
