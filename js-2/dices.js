@@ -19,7 +19,7 @@ if(elementComputerDiceResult > elementUserDiceResult){
  else if(elementComputerDiceResult < elementUserDiceResult){
     console.log("Il giocatore ha vinto, sei fortissimo");
 }
-else if(elementComputerDiceResult = elementUserDiceResult){
+else if(elementComputerDiceResult === elementUserDiceResult){
     console.log("Il tiro è pari, riprova, vogliamo il sangue ");
 }
 
